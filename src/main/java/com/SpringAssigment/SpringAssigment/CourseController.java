@@ -1,4 +1,4 @@
-package com.SpringAssigment.SpringAssigment;
+package com.springAssigment.springAssigment; // ✅ lowercase package name
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
